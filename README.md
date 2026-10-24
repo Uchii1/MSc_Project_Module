@@ -49,6 +49,6 @@ The web application should now load.
 ### Login as a user. 
 Login details for existing demo accounts are included in assessment document submitted on Elite. 
 
-## Please Note: 
+### Please Note: 
 Please do not open the HTML files in the zipped folder on your web browser directly from File Explorer, this will not apply the backend code done in Django.
 
