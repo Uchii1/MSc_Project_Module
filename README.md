@@ -37,17 +37,18 @@ python manage.py runserver
 
 You should see output ending with:
 Starting development server at http://127.0.0.1:8000/
-Leave this PowerShell window open — closing it will stop the server.
+Leave this PowerShell window open. Closing it will stop the server.
 
 ### Step 6: Open in browser
 Open any web browser 
-Copy/Type this address into the address bar:
+Copy or Type this address into the address bar:
 http://127.0.0.1:8000/
 
-Press Enter. The StudySoft app should NOW load.
+The web application should now load.
 
 ### Login as a user. 
-Login details for existing demo accounts are included in assessment submission document submitted on Elite. 
+Login details for existing demo accounts are included in assessment document submitted on Elite. 
 
-#### ! Important: Do not open the HTML files in the zipped folder on your web browser directly from File Explorer, this will not apply the backend code done in Django.
+## Please Note: 
+Please do not open the HTML files in the zipped folder on your web browser directly from File Explorer, this will not apply the backend code done in Django.
 
