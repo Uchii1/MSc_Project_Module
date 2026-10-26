@@ -1,5 +1,7 @@
 #   README 
-Artefact developed for MSc Project in Computer Science Module. 
+
+## Descripton
+This artefact was developed for the MSc Project in Computer Science Module. 
 
 ## Installation Instructions (Windows)
 
@@ -8,14 +10,14 @@ Python version 3 or higher
 pip  (with Python)
 Windows Powershell
 
-Download studySoft onto your computer by downloading the zipped file in this repository
- Inside a zipped file is a subfolder called studySoft containing manage.py.
+Download the StudySoft zipped file in this repository onto your computer, and unzip the file.
+The zipped file contains a subfolder called studySoft, which contains the Python file manage.py.
 
 ### Step 1: Navigate to Project in Powershell
 In Windows Powershell, type the following and press Enter:
 
 cd C:\Users\Your UserName \studySoft
-(replace 'Your UserName' with your own windows username
+(replace 'Your UserName' with your own Windows username
 
 ### Step 2: Install Django
 Run in PowerShell:
@@ -36,19 +38,21 @@ Run in PowerShell:
 python manage.py runserver
 
 You should see output ending with:
-Starting development server at http://127.0.0.1:8000/
-Leave this PowerShell window open. Closing it will stop the server.
+*Starting development server at http://127.0.0.1:8000/*
+Leave this PowerShell window open while working with StudySoft. Closing it will stop the server.
 
 ### Step 6: Open in browser
-Open any web browser 
+Open any web browser (Google Chrome, Microsoft Edge and Mozilla Firefox all work well for this)
 Copy or Type this address into the address bar:
-http://127.0.0.1:8000/
+**http://127.0.0.1:8000/**
+The web application should now load in your browser
 
-The web application should now load.
+### Step 7: Login as a user. 
+Most features can be used without logging in. However, to use the *My Progress* webpage, you must log in as a user.
+You can create a new account.
 
-### Login as a user. 
-Login details for existing demo accounts are included in assessment document submitted on Elite. 
+(**For the Examiner**: Login details for two existing demo accounts in the programme were included in the assessment document submitted on Elite. The accounts can be logged into to see how the *My Progress* tab works)
 
 ### Please Note: 
-Please do not open the HTML files in the zipped folder on your web browser directly from File Explorer, this will not apply the backend code done in Django.
+Please do not open the HTML files in the zipped folder on your web browser directly from your File Explorer. This will not apply the backend code written in Django.
 
