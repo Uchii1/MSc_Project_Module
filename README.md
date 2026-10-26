@@ -42,7 +42,7 @@ You should see output ending with:
 Leave this PowerShell window open while working with StudySoft. Closing it will stop the server.
 
 ### Step 6: Open in browser
-Open any web browser (Google Chrome, Microsoft Edge and Mozilla Firefox all work well for this)
+Open any web browser (Google Chrome, Microsoft Edge and Mozilla Firefox all work well for this).
 Copy or Type this address into the address bar:
 **http://127.0.0.1:8000/**
 The web application should now load in your browser
@@ -54,5 +54,5 @@ You can create a new account.
 (**For the Examiner**: Login details for two existing demo accounts in the programme were included in the assessment document submitted on Elite. The accounts can be logged into to see how the *My Progress* tab works)
 
 ### Please Note: 
-Please do not open the HTML files in the zipped folder on your web browser directly from your File Explorer. This will not apply the backend code written in Django.
+Please do not open the HTML files from the zipped folder on your web browser directly from your File Explorer. This will not apply the backend code written in Django.
 
